@@ -15,6 +15,8 @@ creator:
     gutenberg_agent_id: '34834'
     url: http://www.gutenberg.org/2009/agents/34834
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30805#Espada-da-Justi-a-Sobre-os-Reos-do-Horroroso-Delicto-Praticado-no-Navio-Pelos-que-Morrera--En_
 gutenberg_issued: '2009-12-30'
 gutenberg_type: Text
 identifiers:
